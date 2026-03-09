@@ -1,0 +1,29 @@
+{
+    "id": "94d38eea-2a05-44e4-869c-cdd549316846",
+    "started_at": "2026-03-04T16:55:42.283665",
+    "finished_at": "2026-03-04T16:55:42.286660",
+    "n_total_trials": 1,
+    "stats": {
+        "n_trials": 1,
+        "n_errors": 0,
+        "evals": {
+            "nop__adhoc": {
+                "n_trials": 1,
+                "n_errors": 0,
+                "metrics": [
+                    {
+                        "mean": 0.0
+                    }
+                ],
+                "reward_stats": {
+                    "reward": {
+                        "0.0": [
+                            "harbour_word_count_task__UGwQbVS"
+                        ]
+                    }
+                },
+                "exception_stats": {}
+            }
+        }
+    }
+}
